@@ -1,0 +1,18 @@
+body{
+    padding: 100px;
+    margin:auto;
+    background-image: url("https://miro.medium.com/max/1400/1*YxgtEN-0CCgjmS_uOBd4EA.png");
+    background-size: contain;
+}
+#header{
+    text-align: center;
+    font-size: 100px;
+    background-image:linear-gradient(rgb(4, 193, 240),white);
+    border-radius: 10px;
+}
+.images{
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
